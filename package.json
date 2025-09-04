@@ -1,0 +1,26 @@
+{
+  "name": "tempwizard-npm",
+  "version": "1.0.0",
+  "description": "A simple temperature conversion tool.",
+  "keywords": [
+    "Temperature",
+    "Conversion",
+    "Fahrenheit",
+    "Celsius"
+  ],
+  "homepage": "https://github.com/jrs213/tempWizard-NPM#readme",
+  "bugs": {
+    "url": "https://github.com/jrs213/tempWizard-NPM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrs213/tempWizard-NPM.git"
+  },
+  "license": "MIT",
+  "author": "JRS213",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
